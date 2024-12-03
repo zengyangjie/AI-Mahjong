@@ -1,0 +1,12 @@
+pywin32~=308
+PyGetWindow~=0.0.9
+PyAutoGUI~=0.9.54
+pillow~=11.0.0
+torch~=2.5.1+cu124
+opencv-python~=4.9.0.80
+pynput~=1.7.7
+PyQt5~=5.15.11
+lxml~=5.3.0
+labelImg~=1.8.6
+pandas~=2.2.3
+setuptools~=75.5.0
